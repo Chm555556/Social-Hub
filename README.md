@@ -51,7 +51,7 @@ Check out the live application [here](https://socialhubs.netlify.app/).
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo-name/instagram-clone.git
+   git clone https://github.com/Chm555556/Social-Hub-clone.git
    cd instagram-clone
    ```
 
