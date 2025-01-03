@@ -112,6 +112,7 @@ import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { signIn, signUp } from '@/lib/api/auth';
 import { useToast } from '@/hooks/use-toast';
+import { supabase } from '@/lib/supabase/client';
 
 interface AuthFormProps {
   type: 'login' | 'signup';
